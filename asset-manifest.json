@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hodhod212/chat-io.git/static/css/main.21f3a7e8.chunk.css",
+    "main.js": "/hodhod212/chat-io.git/static/js/main.212868f0.chunk.js",
+    "main.js.map": "/hodhod212/chat-io.git/static/js/main.212868f0.chunk.js.map",
+    "runtime-main.js": "/hodhod212/chat-io.git/static/js/runtime-main.183b02d6.js",
+    "runtime-main.js.map": "/hodhod212/chat-io.git/static/js/runtime-main.183b02d6.js.map",
+    "static/js/2.8fcf023b.chunk.js": "/hodhod212/chat-io.git/static/js/2.8fcf023b.chunk.js",
+    "static/js/2.8fcf023b.chunk.js.map": "/hodhod212/chat-io.git/static/js/2.8fcf023b.chunk.js.map",
+    "index.html": "/hodhod212/chat-io.git/index.html",
+    "precache-manifest.2a1cf37003362072f12b06c3c65ca62b.js": "/hodhod212/chat-io.git/precache-manifest.2a1cf37003362072f12b06c3c65ca62b.js",
+    "service-worker.js": "/hodhod212/chat-io.git/service-worker.js",
+    "static/css/main.21f3a7e8.chunk.css.map": "/hodhod212/chat-io.git/static/css/main.21f3a7e8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.183b02d6.js",
+    "static/js/2.8fcf023b.chunk.js",
+    "static/css/main.21f3a7e8.chunk.css",
+    "static/js/main.212868f0.chunk.js"
+  ]
+}
